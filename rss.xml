@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Apexhost]]></title>
+        <description><![CDATA[Apexhost]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 01 May 2016 12:08:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Quality Infrastructure]]></title>
+            <description><![CDATA[<article><h1>Quality Infrastructure</h1><p>All our equipment is housed at Melbourne data center using top quality equipment. Our servers are all multi SAS HDDs in raid with multi Cored CPUS. fully meshed networks. You can choose from Windows 2008, Windows 2012, SQL 2008, SQL 2012, NOW SQL 2014, IIS7, IIS8 with MVC4, MVC5 AJAX .net 4.5</p></article>]]></description>
+            <link>undefinedquality-infrastructure/index.html</link>
+            <guid isPermaLink="false">f5089b54-3078-4879-9c44-adcfe90ace6f</guid>
+            <pubDate>Sun, 01 May 2016 12:08:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
